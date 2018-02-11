@@ -30,3 +30,8 @@
 *.exe
 *.out
 *.app
+
+# 排除vs的配置和输出信息
+DeBug
+.vs
+**/DeBug
